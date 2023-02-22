@@ -1,7 +1,7 @@
 # reader
 
 阅读3服务器版，不需要手机
-![](imgs/mpcode.png)
+
 
 > 注意❗️
 >
