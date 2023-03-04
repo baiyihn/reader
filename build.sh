@@ -1,7 +1,7 @@
 #!/bin/bash
 
 oldJAVAHome=$JAVA_HOME
-
+//6666//
 task=$1
 
 version=""
